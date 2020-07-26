@@ -1,5 +1,5 @@
 # Serve Me Up 
-![](images\nodejs.jpg)
+![](Develop\images\nodejs.jpg)
 
 ## Homework Description 
 #### In your working directory you will initiate a server using Node.js that accepts command line user input, which will save user input to a text file. 
@@ -61,8 +61,8 @@
 * Add a `gif` to showcase your work **_25 pts_**
 ---
 ### App
-![](images\techbridge.gif)
+![](Develop\images\techbridge.gif)
 
 
 ## ❤ **_Happy Coding_** ❤
-![](images\TechBridgeLogo.png)
+![](Develop\images\TechBridgeLogo.png)
